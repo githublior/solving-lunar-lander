@@ -1,4 +1,4 @@
-RL-LunarLander-v2
+# Solving-lunar-lander
 
 
 Project solving the LunarLanderContinuous-v2 from the openai-gym (https://gym.openai.com/envs/LunarLanderContinuous-v2/) , using techniques learnt in course Reinforcement learning.
