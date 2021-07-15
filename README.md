@@ -38,6 +38,7 @@ Reading more papers, Using some advanced policy gradients and actor-critic metho
 
 The goal of this part is to show our knowledge and theoretical/practical understanding of
 the different algorithms and hyperparameters.
+
 4) Then, refer to the Lunar-lander with uncertainty. (explanation: observations in the real
 physical world are sometimes noisy). Specifically, we will add a zero-mean
 Gaussian noise with mean=0 and std = 0.05 to PositionX and PositionY observation of
