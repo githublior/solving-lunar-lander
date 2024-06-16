@@ -43,3 +43,7 @@ the different algorithms and hyperparameters.
 physical world are sometimes noisy). Specifically, we will add a zero-mean
 Gaussian noise with mean=0 and std = 0.05 to PositionX and PositionY observation of
 the location of the lander.
+
+
+# complementary resources:
+https://colab.research.google.com/drive/1wpZ25Y3jgueMqImRGJQZVUpMOrlbw4Yq
